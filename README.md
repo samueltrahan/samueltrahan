@@ -10,8 +10,8 @@ Check out the things I'm working in my repositories and checkout [Cinque Web Dev
 ## <h1 align="center">My GitHub Stats</h1>
 ---
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueltrahan&theme=tokyonight)" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=samueltrahan&count_private=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueltrahan&theme=tokyonight)" />
 </p>
 
 - 🌱 I’m currently learning React Native (at Cinque Web Development we have a really special app coming soon....).
