@@ -1,6 +1,10 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samueltrahan)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samueltrahan&count_private=true&theme=tokyonight)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueltrahan)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samueltrahan&count_private=true&theme=tokyonight" />
+</a>
 
 <!--
 **samueltrahan/samueltrahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
