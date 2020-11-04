@@ -1,4 +1,4 @@
-## Hello, I'm Samuel
+## <h1 align="center">Hello, I'm Samuel</h1>
 ---
 I'm a Full-Stack Developer here to build cool things.
 ------
