@@ -1,5 +1,5 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samueltrahan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samueltrahan)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samueltrahan&count_private=true&theme=tokyonight)
 
 <!--
