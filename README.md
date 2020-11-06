@@ -3,7 +3,7 @@
 <h3 align="center">I'm a Full-Stack Developer here to build cool things.<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="18" height="18"/></h3>
 
 
-Check out the things I'm working in my repositories and checkout [Cinque Web Development](https://github.com/Cinque-Web-Development) where myself and other great engineers work on projects as a team.
+Check out the things I'm working on in my repositories and checkout [Cinque Web Development](https://github.com/Cinque-Web-Development) where myself and other great engineers work on projects as a team.
 
 ----
 
